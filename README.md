@@ -1,0 +1,2 @@
+# jsp4includetag
+Include action tag is used for including another resource to the current JSP page. The included resource can be a static page in HTML, JSP page or Servlet. We can also pass parameters and their values to the resource which we are including. Below I have shared two examples of &lt;jsp:include>, one which includes a page without passing any parameters and in second example we are passing few parameters to the page which is being included.
